@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author       = { 'Filepicker.io' => 'contact@filepicker.io' }
 
   s.source       = {
-    :git => 'https://github.com/Ink/ios-picker.git',
+    :git => 'https://github.com/m4rcoperuano/ios-picker.git',
     :tag => "v#{s.version}"
   }
 
